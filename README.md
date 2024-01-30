@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharkout
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Node.js and React Native
+- 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 You can reach me through my github account
